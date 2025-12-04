@@ -33,7 +33,7 @@ Each topic is available as a separate Markdown file located in the `/docs` folde
 **High-Level:** Explains authentication vs authorization, Spring Security, XSS, SQL injection, CSRF, OAuth 2.0 vs SAML, OWASP guidelines, and best security practices.  
 **Purpose:** Equip developers to design and secure robust applications.
 
-### 6. Messaging Systems (`06-messaging-systems.md`)  
+### 6. Messaging Systems (`06-java-message-systems.md`)  
 **Level:** Intermediate → Advanced  
 **High-Level:** Covers asynchronous communication, Kafka, RabbitMQ, JMS, delivery guarantees, idempotency, dead-letter queues, and Spring integration.  
 **Purpose:** Design scalable, decoupled, and reliable systems.
